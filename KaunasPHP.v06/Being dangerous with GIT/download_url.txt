@@ -1,0 +1,1 @@
+http://slides.gediminasm.org/being-dangerous-with-git-rebase/index.html
